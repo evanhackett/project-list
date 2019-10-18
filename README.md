@@ -32,7 +32,7 @@ At any given time this may be out of date.
 |web-historian|Clone of the WayBackMachine at archive.org|[Github](https://github.com/evanhackett/web-historian)|TODO|
 |n-queens|Solving the n-queens problem visually|[Github](https://github.com/evanhackett/n-queens)|TODO|
 |chatterbox|Chatroom app|[Github](https://github.com/evanhackett/chatterbox-server)|TODO|
-|mytunes|Music player webapp|### [Github](https://github.com/evanhackett/mytunes)|http://evanhackett.com/mytunes/|
+|mytunes|Music player webapp|[Github](https://github.com/evanhackett/mytunes)|http://evanhackett.com/mytunes/|
 |matrix-transformations|Simple demo of using matrix multiplications to animate.|[Github](https://github.com/evanhackett/matrix-transformations)|https://evanhackett.com/matrix-transformations/|
 |Demons-of-the-Cyclic-Space|Cyclic cellular automaton animation|[Github](https://github.com/evanhackett/Demons-of-the-Cyclic-Space)|http://evanhackett.com/Demons-of-the-Cyclic-Space/|
 |Mandelbrot Set|Mandelbrot set graph with zoom|[Github](https://github.com/evanhackett/MandelbrotSet)|http://evanhackett.com/MandelbrotSet/|
