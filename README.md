@@ -38,3 +38,4 @@ At any given time this may be out of date.
 |Mandelbrot Set|Mandelbrot set graph with zoom|[Github](https://github.com/evanhackett/MandelbrotSet)|http://evanhackett.com/MandelbrotSet/|
 |Lexical-Analyzer|Lexical Analyzer in C++. Uses DFA's to parse C source code.|[Github](https://github.com/evanhackett/Lexical-Analyzer)|none|
 |morgsimpy|Micro-organism simulator with graphics|[Github](https://github.com/evanhackett/morgsimpy)|none|
+|uberify|Chrome extension to call uber to take you to an in-browser-address|[Github](https://github.com/uberify/uberify)|http://uberify.github.io/uberify/|
