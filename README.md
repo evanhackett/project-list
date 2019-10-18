@@ -7,13 +7,13 @@ This is simply a list of all of my (mostly) personal projects that I feel are wo
 
 **This is not a portfolio page**. Think of it like a curated list of my github repos.
 
-At any given time this may be out of date.
+At any given time this may be out of date and incomplete.
 
 This does not include professional projects or closed source projects.
 
 ## The List
 
-| Name | Description | Repo Link | Deployed Link (if any) |
+| Name | Description | Repo Link | Deployed Link (or link to more info) |
 |--|--|--|--
 | homepage | Personal landing page | [Github](https://github.com/evanhackett/evanhackett.github.io) | https://evanhackett.com |
 |Perception|Closed caption editor|[Github](https://github.com/capstone-team-a/Perception)|none|
