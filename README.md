@@ -1,13 +1,15 @@
 
-# Curated Project List
+# Curated List of My Open Source Projects
 
 ## Introduction
 
 This is simply a list of all of my (mostly) personal projects that I feel are worth linking to. 
 
-This is not a portfolio page. Think of it like a slightly curated list of my github repos.
+**This is not a portfolio page**. Think of it like a curated list of my github repos.
 
 At any given time this may be out of date.
+
+This does not include professional projects or closed source projects.
 
 ## The List
 
