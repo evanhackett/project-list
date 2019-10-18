@@ -39,4 +39,4 @@ At any given time this may be out of date.
 |Lexical-Analyzer|Lexical Analyzer in C++. Uses DFA's to parse C source code.|[Github](https://github.com/evanhackett/Lexical-Analyzer)|none|
 |morgsimpy|Micro-organism simulator with graphics|[Github](https://github.com/evanhackett/morgsimpy)|none|
 |uberify|Chrome extension to call uber to take you to an in-browser-address|[Github](https://github.com/uberify/uberify)|http://uberify.github.io/uberify/|
-| Theseus | Virtual Reality Cloud Operating Environment for use with Google Cardboard | [Github](https://github.com/GloryAndCode/Theseus) | [Hack Reactor press](https://www.hackreactor.com/blog/virtual-reality-platform-built-by-remote-students-opens-possibilities-for-vr-developers) |
+| Theseus | Virtual Reality Cloud Operating Environment for use with Google Cardboard | [Github](https://github.com/GloryAndCode/Theseus) | [Hack Reactor press on Theseus](https://www.hackreactor.com/blog/virtual-reality-platform-built-by-remote-students-opens-possibilities-for-vr-developers) |
