@@ -17,6 +17,7 @@ This does not include professional projects or closed source projects.
 |--|--|--|--
 | homepage | Personal landing page | [Github](https://github.com/evanhackett/evanhackett.github.io) | https://evanhackett.com |
 |Perception|Closed caption editor & encoder|[Github](https://github.com/capstone-team-a/Perception)|none|
+|Pandemic Playground|Infectious disease simulator|[Github](https://github.com/evanhackett/pandemic-workshop-prototype)|https://evanhackett.com/pandemic-workshop-prototype/|
 |random-tracklist|Pulls songs in random order from my bands Google Sheets tracklist|[Github](https://github.com/evanhackett/random-tracklist)|https://tracklist.hackett.software|
 |trees|Generative art|[Github](https://github.com/evanhackett/trees)|https://evanhackett.com/trees/|
 |watchout|"Avoider" style game|[Github](https://github.com/evanhackett/watchout)|http://evanhackett.com/watchout/|
