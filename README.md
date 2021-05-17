@@ -16,6 +16,8 @@ This does not include professional projects or closed source projects.
 | Name | Description | Repo Link | Deployed Link (or link to more info) |
 |--|--|--|--
 | homepage | Personal landing page | [Github](https://github.com/evanhackett/evanhackett.github.io) | https://evanhackett.com |
+| dotfiles | My configuration "dotfiles" | [Github](https://github.com/evanhackett/dotfiles) | none |
+| emacs.d | My emacs config | [Github](https://github.com/evanhackett/emacs.d) | none |
 |Perception|Closed caption editor & encoder|[Github](https://github.com/capstone-team-a/Perception)|none|
 |Pandemic Playground|Infectious disease simulator|[Github](https://github.com/evanhackett/pandemic-workshop-prototype)|https://evanhackett.com/pandemic-workshop-prototype/|
 |random-tracklist|Pulls songs in random order from my bands Google Sheets tracklist|[Github](https://github.com/evanhackett/random-tracklist)|https://tracklist.hackett.software|
